@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [フールナイト 11 [Fool Night 11]](https://www.goodreads.com/review/show/8318134835?utm_medium=api&utm_source=rss) by Kasumi Yasuda (⭐⭐⭐⭐)
-- [フールナイト 10 [Fool Night 10]](https://www.goodreads.com/review/show/8318133262?utm_medium=api&utm_source=rss) by Kasumi Yasuda (⭐⭐⭐⭐)
-- [Fool Night, tome 9](https://www.goodreads.com/review/show/8318132226?utm_medium=api&utm_source=rss) by Kasumi Yasuda (⭐⭐⭐⭐)
-- [フールナイト 8 [Fool Night 8]](https://www.goodreads.com/review/show/8318131567?utm_medium=api&utm_source=rss) by Kasumi Yasuda (⭐⭐⭐⭐⭐)
-- [フールナイト 7 [Fool Night 7]](https://www.goodreads.com/review/show/8318130782?utm_medium=api&utm_source=rss) by Kasumi Yasuda (⭐⭐⭐⭐⭐)
+- [Neon Genesis Evangelion, Vol. 14](https://www.goodreads.com/review/show/8347364518?utm_medium=api&utm_source=rss) by Yoshiyuki Sadamoto (⭐⭐⭐⭐⭐)
+- [Neon Genesis Evangelion, Vol. 13](https://www.goodreads.com/review/show/8347364487?utm_medium=api&utm_source=rss) by Yoshiyuki Sadamoto (⭐⭐⭐⭐⭐)
+- [Neon Genesis Evangelion, Vol. 12](https://www.goodreads.com/review/show/8347364464?utm_medium=api&utm_source=rss) by Yoshiyuki Sadamoto (⭐⭐⭐⭐⭐)
+- [Neon Genesis Evangelion, Vol. 11](https://www.goodreads.com/review/show/8347364431?utm_medium=api&utm_source=rss) by Yoshiyuki Sadamoto (⭐⭐⭐⭐⭐)
+- [Neon Genesis Evangelion, Vol. 10](https://www.goodreads.com/review/show/8347361731?utm_medium=api&utm_source=rss) by Yoshiyuki Sadamoto (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
