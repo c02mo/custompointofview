@@ -32,11 +32,11 @@ I honestly hope this list will never end.
 
 #### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [A Shining](https://www.goodreads.com/review/show/8381388597?utm_medium=api&utm_source=rss) by Jon Fosse (⭐⭐⭐)
+- [Coraline](https://www.goodreads.com/review/show/6038117590?utm_medium=api&utm_source=rss) by Neil Gaiman (⭐⭐⭐)
 - [Neon Genesis Evangelion, Vol. 14](https://www.goodreads.com/review/show/8347364518?utm_medium=api&utm_source=rss) by Yoshiyuki Sadamoto (⭐⭐⭐⭐⭐)
 - [Neon Genesis Evangelion, Vol. 13](https://www.goodreads.com/review/show/8347364487?utm_medium=api&utm_source=rss) by Yoshiyuki Sadamoto (⭐⭐⭐⭐⭐)
 - [Neon Genesis Evangelion, Vol. 12](https://www.goodreads.com/review/show/8347364464?utm_medium=api&utm_source=rss) by Yoshiyuki Sadamoto (⭐⭐⭐⭐⭐)
-- [Neon Genesis Evangelion, Vol. 11](https://www.goodreads.com/review/show/8347364431?utm_medium=api&utm_source=rss) by Yoshiyuki Sadamoto (⭐⭐⭐⭐⭐)
-- [Neon Genesis Evangelion, Vol. 10](https://www.goodreads.com/review/show/8347361731?utm_medium=api&utm_source=rss) by Yoshiyuki Sadamoto (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!-- #### Some Stats 👷 -->
