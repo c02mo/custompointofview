@@ -5,7 +5,7 @@ I'm enthusiastic about reading, writing, film photography, drawing, illustration
 I honestly hope this list will never end.
 
 #### This One... 🧠
-[![My Skills](https://skillicons.dev/icons?i=linux,html,css,tailwind,js,ts,nextjs,gatsby,nodejs,react,go,py,dart,flutter,figma,webpack,electron,rabbitmq,raspberrypi,jenkins,netlify,ansible,aws,azure,gcp,mongodb,redis,sqlite,bash,powershell,docker,git,vscode&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,html,css,tailwind,js,ts,nextjs,gatsby,nodejs,react,go,py,dart,flutter,figma,webpack,electron,rabbitmq,raspberrypi,jenkins,kafka,netlify,ansible,aws,azure,gcp,mongodb,redis,sqlite,bash,regex,powershell,terraform,docker,kubernetes,vercel,vite,vitest,git,vscode,notion,md,ae,anaconda,figma,godot&perline=15)](https://skillicons.dev)
 
 #### This One As Well... 💡
 - 🌲 [My Tree Of Links](https://linktr.ee/custompointofview)
